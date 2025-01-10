@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm Adejo Comfort Alex
 
-<!--
-**Ciidarlytics/Ciidarlytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about leveraging data-driven insights to improve health outcomes and address pressing global health challenges.
+My expertise lies in data analysis, interpretation, and visualization, which I aim to use to support informed decision-making
+and foster impactful health interventions. 
 
-Here are some ideas to get you started:
+**Skills and Expertise:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**⚫Data Analytics Tools:** Microsoft Excel, Tableau, Power BI, and IBM SPSS 
+**⚫Programming Languages:** Python and R programming language  
+**⚫Data Techniques:** Data preparation analysis, modeling, machine learning, visualization, Google BigQuery, reporting and storytelling  
+**⚫Database Management:** Adept at using SQL for querying and managing big data  
+**⚫Survey Tools:** Competent in utilizing Google Forms for survey design and data collection  
+**⚫Soft Skills:** Critical and Analytical thinking, solution-oriented, Team collaboration and management, Competent written and oral communication, Attention to detail, Presentation and research.  
+
+I bring a detail-oriented and solution-focused approach to every project, striving to empower organizations with data-driven insights that drive growth and innovation. 
+Whether you're looking to optimize processes, uncover trends, or solve complex challenges, I am ready to deliver tailored solutions that exceed expectations.
+
+ 
+
+
 -->
