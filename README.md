@@ -14,7 +14,10 @@ and foster impactful health interventions.
 **🔸Soft Skills:** Critical and Analytical thinking, solution-oriented, Team collaboration and management, Competent written and oral communication, Attention to detail, Presentation and research.  
 
 I bring a detail-oriented and solution-focused approach to every project, striving to empower organizations with data-driven insights that drive growth and innovation. 
-Whether you're looking to optimize processes, uncover trends, or solve complex challenges, I am ready to deliver tailored solutions that exceed expectations.
+Whether you're looking to optimize processes, uncover trends, or solve complex challenges, I am ready to deliver tailored solutions that exceed expectations.  
+
+
+[![Comfort Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciidarlytics&count_private=true&show_icons=true&theme=radical&hide_rank=false)]  
 
  
 
